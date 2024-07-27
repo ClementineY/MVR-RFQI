@@ -5,6 +5,7 @@ from gym import spaces
 from data_container import DATA
 import os
 import argparse
+import envs
 
 def get_action_type(action_space):
     """
