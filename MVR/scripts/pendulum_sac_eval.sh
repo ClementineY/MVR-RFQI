@@ -1,1 +1,0 @@
-python evalmpc_perturbedenv.py name=eval_sac_pendulum env=pendulum policy=sac init_angle_mag=0.05
